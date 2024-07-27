@@ -1,0 +1,3 @@
+[submodule "vehicle_model"]
+	path = vehicle_model
+	url = https://github.com/pohrselvan/vehicle_model.git
